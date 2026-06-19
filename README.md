@@ -130,6 +130,4 @@ Since the initial population is generated randomly, every execution produces a d
 
 ---
 
-### Author
-
-**MajkiiWasTaken**
+### Author: Michal Švrček
