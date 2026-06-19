@@ -2,7 +2,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Language](https://img.shields.io/badge/language-C-00599C)
-![Compiler](https://img.shields.io/badge/compiler-MSVC-success)
 ![Type](https://img.shields.io/badge/type-Cellular%20Automaton-orange)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
